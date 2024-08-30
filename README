@@ -1,0 +1,24 @@
+# Fundraiser CLI application
+
+This is a simple CLI application for managing donations to charities. You can add, edit, view, and delete charities, as well as record donations. You can also import charities from a CSV file.
+
+## Features
+
+- View a list of charities
+- Add a new charity
+- Edit an existing charity
+- Delete a charity
+- Add a donation
+- Import charities from a CSV file
+
+## Requirements
+
+- **PHP**: Application has been created on PHP 8.3 version
+
+## Installation
+
+1. **Download the project**
+
+   git clone https://github.com/ignaspu/Fundraiser-App.git
+   cd Fundraiser-App
+   php src/cli.php
